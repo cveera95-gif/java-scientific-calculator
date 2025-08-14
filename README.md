@@ -16,3 +16,4 @@ This is a basic scientific calculator created in Java and Java Swing (JFrame). J
 - Java (Programming Language)
 - Java Swing (GUI)
 - IDE: Apache NetBeans or IntelliJ Idea
+##
